@@ -1,0 +1,92 @@
+[
+  {
+    "student_id": "STU-1001",
+    "name": "Alex Chen",
+    "email": "alex.chen@fictional.edu",
+    "grade": "Grade 10",
+    "section": "A",
+    "consent_enrolled": 1,
+    "guardian_consent": 1
+  },
+  {
+    "student_id": "STU-1002",
+    "name": "Maya Patel",
+    "email": "maya.patel@fictional.edu",
+    "grade": "Grade 10",
+    "section": "A",
+    "consent_enrolled": 1,
+    "guardian_consent": 1
+  },
+  {
+    "student_id": "STU-1003",
+    "name": "Liam Johnson",
+    "email": "liam.johnson@fictional.edu",
+    "grade": "Grade 10",
+    "section": "A",
+    "consent_enrolled": 1,
+    "guardian_consent": 1
+  },
+  {
+    "student_id": "STU-1004",
+    "name": "Sofia Rodriguez",
+    "email": "sofia.rodriguez@fictional.edu",
+    "grade": "Grade 10",
+    "section": "A",
+    "consent_enrolled": 1,
+    "guardian_consent": 1
+  },
+  {
+    "student_id": "STU-1005",
+    "name": "Marcus Washington",
+    "email": "marcus.w@fictional.edu",
+    "grade": "Grade 10",
+    "section": "A",
+    "consent_enrolled": 1,
+    "guardian_consent": 1
+  },
+  {
+    "student_id": "STU-1006",
+    "name": "Priya Sharma",
+    "email": "priya.sharma@fictional.edu",
+    "grade": "Grade 10",
+    "section": "B",
+    "consent_enrolled": 1,
+    "guardian_consent": 1
+  },
+  {
+    "student_id": "STU-1007",
+    "name": "Ethan Brooks",
+    "email": "ethan.brooks@fictional.edu",
+    "grade": "Grade 10",
+    "section": "B",
+    "consent_enrolled": 1,
+    "guardian_consent": 1
+  },
+  {
+    "student_id": "STU-1008",
+    "name": "Chloe Kim",
+    "email": "chloe.kim@fictional.edu",
+    "grade": "Grade 10",
+    "section": "B",
+    "consent_enrolled": 1,
+    "guardian_consent": 1
+  },
+  {
+    "student_id": "STU-1009",
+    "name": "Noah Al-Mansoor",
+    "email": "noah.almansoor@fictional.edu",
+    "grade": "Grade 11",
+    "section": "A",
+    "consent_enrolled": 0,
+    "guardian_consent": 0
+  },
+  {
+    "student_id": "STU-1010",
+    "name": "Emma Davis",
+    "email": "emma.davis@fictional.edu",
+    "grade": "Grade 11",
+    "section": "A",
+    "consent_enrolled": 1,
+    "guardian_consent": 1
+  }
+]

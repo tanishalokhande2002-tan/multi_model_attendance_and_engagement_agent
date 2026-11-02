@@ -1,0 +1,60 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Caching & Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+
+# Databases & local state (Privacy preservation)
+*.db
+*.sqlite3
+data/*.db
+data/*.sqlite3
+
+# Media & Temporary Data
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.wav
+*.mp3
+*.flac
+*.aac
+*.ogg
+data/*.mp4
+data/*.wav
+data/*.mp3
+data/*.avi
+data/*.mov
+
+# Generated Reports & Output Artifacts
+outputs/*
+!outputs/.gitkeep
+temp/
+tmp/
+
+# IDE & OS-specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Streamlit config / cache
+.streamlit/
